@@ -1,2 +1,2 @@
 # euroscope-setting
-euroscope settings
+place this files into "D:\euroscope-setting"
