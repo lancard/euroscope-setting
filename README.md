@@ -1,0 +1,2 @@
+# euroscope-setting
+euroscope settings
