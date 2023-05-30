@@ -1,0 +1,8 @@
+EuroScope Sector File Provider File
+
+NAME:VATSIM Korea Sector File Provider
+URL:https://www.vatkor.net/VATKOR_Sector_Provider.txt
+DOWNLOADINTERVAL:12
+
+PROVIDER_NAME:VATSIM Korea Sector File - Github
+PROVIDER_URL:https://github.com/lancard/korea-flight-database/releases/latest/download/VATKOR_Sector.txt

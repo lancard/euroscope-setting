@@ -1,0 +1,400 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:D:\euroscope-setting\sector_1.20230529.1121350.sct2
+SECTORTITLE:sector_1.20230529.1121350.sct2
+Airports:RJFF:name
+Airports:RJFF:symbol
+Airports:RJFM:name
+Airports:RJFM:symbol
+Airports:ZSPD:name
+Airports:ZSPD:symbol
+Airports:ZSSS:name
+Airports:ZSSS:symbol
+ARTCC boundary:RJBG:
+ARTCC boundary:RJCG:
+ARTCC boundary:RJDG:
+ARTCC boundary:RJTG:
+ARTCC boundary:RKDA:
+ARTCC boundary:RKDA-C:
+ARTCC boundary:RKDA-E:
+ARTCC boundary:RKDA-W:
+ARTCC boundary:RKRR:
+ARTCC boundary:RKRR-N:
+ARTCC boundary:RKRR-S:
+ARTCC boundary:UHHH:
+ARTCC boundary:ZKKP:
+ARTCC boundary:ZSHA:
+ARTCC boundary:ZYSH:
+ARTCC high boundary:RKPC_APP:
+ARTCC high boundary:RKPK_APP:
+ARTCC high boundary:RKSS_APP:
+Fixes:ADNUR:name
+Fixes:ADNUR:symbol
+Fixes:AGAVO:name
+Fixes:AGAVO:symbol
+Fixes:ANDOL:name
+Fixes:ANDOL:symbol
+Fixes:ANSIM:name
+Fixes:ANSIM:symbol
+Fixes:APELA:name
+Fixes:APELA:symbol
+Fixes:ATASO:name
+Fixes:ATASO:symbol
+Fixes:ATOTI:name
+Fixes:ATOTI:symbol
+Fixes:BASEM:name
+Fixes:BASEM:symbol
+Fixes:BEDAR:name
+Fixes:BEDAR:symbol
+Fixes:BEDES:name
+Fixes:BEDES:symbol
+Fixes:BESNA:name
+Fixes:BESNA:symbol
+Fixes:BONSO:name
+Fixes:BONSO:symbol
+Fixes:BULTI:name
+Fixes:BULTI:symbol
+Fixes:BUMEP:name
+Fixes:BUMEP:symbol
+Fixes:DALSU:name
+Fixes:DALSU:symbol
+Fixes:DOTOL:name
+Fixes:DOTOL:symbol
+Fixes:DUMAN:name
+Fixes:DUMAN:symbol
+Fixes:EGOBA:name
+Fixes:EGOBA:symbol
+Fixes:ELAPI:name
+Fixes:ELAPI:symbol
+Fixes:ELGEP:name
+Fixes:ELGEP:symbol
+Fixes:GOLOT:name
+Fixes:GOLOT:symbol
+Fixes:GONAV:name
+Fixes:GONAV:symbol
+Fixes:GUKDO:name
+Fixes:GUKDO:symbol
+Fixes:IGDOK:name
+Fixes:IGDOK:symbol
+Fixes:IKEDO:name
+Fixes:IKEDO:symbol
+Fixes:INVOK:name
+Fixes:INVOK:symbol
+Fixes:KALEK:name
+Fixes:KALEK:symbol
+Fixes:KALOD:name
+Fixes:KALOD:symbol
+Fixes:KAMIT:name
+Fixes:KAMIT:symbol
+Fixes:KANSU:name
+Fixes:KANSU:symbol
+Fixes:KARBU:name
+Fixes:KARBU:symbol
+Fixes:KICHA:name
+Fixes:KICHA:symbol
+Fixes:LAMEN:name
+Fixes:LAMEN:symbol
+Fixes:LANAT:name
+Fixes:LANAT:symbol
+Fixes:MAKET:name
+Fixes:MAKET:symbol
+Fixes:MAKSA:name
+Fixes:MAKSA:symbol
+Fixes:MANGI:name
+Fixes:MANGI:symbol
+Fixes:MASTA:name
+Fixes:MASTA:symbol
+Fixes:MESOV:name
+Fixes:MESOV:symbol
+Fixes:MUGUS:name
+Fixes:MUGUS:symbol
+Fixes:NIRAT:name
+Fixes:NIRAT:symbol
+Fixes:NULAR:name
+Fixes:NULAR:symbol
+Fixes:OLMEN:name
+Fixes:OLMEN:symbol
+Fixes:ONIKU:name
+Fixes:ONIKU:symbol
+Fixes:OPEDA:name
+Fixes:OPEDA:symbol
+Fixes:PALSA:name
+Fixes:PALSA:symbol
+Fixes:PANSI:name
+Fixes:PANSI:symbol
+Fixes:PEBRI:name
+Fixes:PEBRI:symbol
+Fixes:PONIK:name
+Fixes:PONIK:symbol
+Fixes:PONIL:name
+Fixes:PONIL:symbol
+Fixes:PONT2:name
+Fixes:PONT2:symbol
+Fixes:REBIT:name
+Fixes:REBIT:symbol
+Fixes:RIVAT:name
+Fixes:RIVAT:symbol
+Fixes:RUGMA:name
+Fixes:RUGMA:symbol
+Fixes:SADLI:name
+Fixes:SADLI:symbol
+Fixes:SAMDO:name
+Fixes:SAMDO:symbol
+Fixes:SAPRA:name
+Fixes:SAPRA:symbol
+Fixes:SASRI:name
+Fixes:SASRI:symbol
+Fixes:SOSDO:name
+Fixes:SOSDO:symbol
+Fixes:TOLIS:name
+Fixes:TOLIS:symbol
+Fixes:TOMUK:name
+Fixes:TOMUK:symbol
+Fixes:TOPAX:name
+Fixes:TOPAX:symbol
+Fixes:VASRO:name
+Fixes:VASRO:symbol
+Fixes:YUMIN:name
+Fixes:YUMIN:symbol
+Geo:GEO:
+High airways:L512:line
+High airways:L512:name
+High airways:L771:line
+High airways:L771:name
+High airways:Y14:line
+High airways:Y14:name
+High airways:Y16:line
+High airways:Y16:name
+High airways:Y209:line
+High airways:Y209:name
+High airways:Y233:line
+High airways:Y233:name
+High airways:Y253:line
+High airways:Y253:name
+High airways:Y28:line
+High airways:Y28:name
+High airways:Y347:line
+High airways:Y347:name
+High airways:Y377:line
+High airways:Y377:name
+High airways:Y51:line
+High airways:Y51:name
+High airways:Y549:line
+High airways:Y549:name
+High airways:Y571:line
+High airways:Y571:name
+High airways:Y572:line
+High airways:Y572:name
+High airways:Y579:line
+High airways:Y579:name
+High airways:Y590:line
+High airways:Y590:name
+High airways:Y60:line
+High airways:Y60:name
+High airways:Y644:line
+High airways:Y644:name
+High airways:Y65:line
+High airways:Y65:name
+High airways:Y655:line
+High airways:Y655:name
+High airways:Y657:line
+High airways:Y657:name
+High airways:Y659:line
+High airways:Y659:name
+High airways:Y677:line
+High airways:Y677:name
+High airways:Y685:line
+High airways:Y685:name
+High airways:Y697:line
+High airways:Y697:name
+High airways:Y711:line
+High airways:Y711:name
+High airways:Y722:line
+High airways:Y722:name
+High airways:Y742:line
+High airways:Y742:name
+High airways:Y744:line
+High airways:Y744:name
+High airways:Y781:line
+High airways:Y781:name
+High airways:Y782:line
+High airways:Y782:name
+High airways:Z162:line
+High airways:Z162:name
+High airways:Z17:line
+High airways:Z17:name
+High airways:Z171:line
+High airways:Z171:name
+High airways:Z182:line
+High airways:Z182:name
+High airways:Z20:line
+High airways:Z20:name
+High airways:Z401:line
+High airways:Z401:name
+High airways:Z50:line
+High airways:Z50:name
+High airways:Z51:line
+High airways:Z51:name
+High airways:Z52:line
+High airways:Z52:name
+High airways:Z53:line
+High airways:Z53:name
+High airways:Z55:line
+High airways:Z55:name
+High airways:Z56:line
+High airways:Z56:name
+High airways:Z57:line
+High airways:Z57:name
+High airways:Z63:line
+High airways:Z63:name
+High airways:Z81:line
+High airways:Z81:name
+High airways:Z82:line
+High airways:Z82:name
+High airways:Z83:line
+High airways:Z83:name
+High airways:Z84:line
+High airways:Z84:name
+High airways:Z85:line
+High airways:Z85:name
+High airways:Z86:line
+High airways:Z86:name
+High airways:Z91:line
+High airways:Z91:name
+Low airways:3AW1:line
+Low airways:3AW1:name
+Low airways:3AW2:line
+Low airways:3AW2:name
+Low airways:A326:line
+Low airways:A326:name
+Low airways:A345:line
+Low airways:A345:name
+Low airways:A575:line
+Low airways:A575:name
+Low airways:A582:line
+Low airways:A582:name
+Low airways:A586:line
+Low airways:A586:name
+Low airways:A591:line
+Low airways:A591:name
+Low airways:A593:line
+Low airways:A593:name
+Low airways:A595:line
+Low airways:A595:name
+Low airways:A900:line
+Low airways:A900:name
+Low airways:A934:line
+Low airways:A934:name
+Low airways:B332:line
+Low airways:B332:name
+Low airways:B355:line
+Low airways:B355:name
+Low airways:B356:line
+Low airways:B356:name
+Low airways:B467:line
+Low airways:B467:name
+Low airways:B576:line
+Low airways:B576:name
+Low airways:B591:line
+Low airways:B591:name
+Low airways:G203:line
+Low airways:G203:name
+Low airways:G327:line
+Low airways:G327:name
+Low airways:G339:line
+Low airways:G339:name
+Low airways:G455:line
+Low airways:G455:name
+Low airways:G585:line
+Low airways:G585:name
+Low airways:G597:line
+Low airways:G597:name
+Low airways:G705:line
+Low airways:G705:name
+Low airways:G711:line
+Low airways:G711:name
+Low airways:N513:line
+Low airways:N513:name
+Low airways:NCorridor:line
+Low airways:NCorridor:name
+Low airways:OTR30:line
+Low airways:OTR30:name
+Low airways:R224:line
+Low airways:R224:name
+Low airways:R452:line
+Low airways:R452:name
+Low airways:Susaek:line
+Low airways:Susaek:name
+Low airways:V11:line
+Low airways:V11:name
+Low airways:V28:line
+Low airways:V28:name
+Low airways:V543:line
+Low airways:V543:name
+Low airways:V547:line
+Low airways:V547:name
+Low airways:V549:line
+Low airways:V549:name
+Low airways:VFRroute:line
+Low airways:VFRroute:name
+Low airways:VFRroute(Arr):line
+Low airways:VFRroute(Arr):name
+Low airways:W1:line
+Low airways:W1:name
+Low airways:W107:line
+Low airways:W107:name
+Low airways:W108:line
+Low airways:W108:name
+Low airways:W113:line
+Low airways:W113:name
+Low airways:W2:line
+Low airways:W2:name
+Low airways:W3:line
+Low airways:W3:name
+Low airways:W4:line
+Low airways:W4:name
+Low airways:W45:line
+Low airways:W45:name
+Low airways:W5:line
+Low airways:W5:name
+Low airways:W526:line
+Low airways:W526:name
+Low airways:W61:line
+Low airways:W61:name
+Low airways:W62:line
+Low airways:W62:name
+Low airways:YCorridor:line
+Low airways:YCorridor:name
+VORs:CJU:frequency
+VORs:CJU:name
+VORs:CJU:symbol
+VORs:KPO:frequency
+VORs:KPO:name
+VORs:KPO:symbol
+VORs:KUZ:frequency
+VORs:KUZ:name
+VORs:KUZ:symbol
+VORs:PSN:frequency
+VORs:PSN:name
+VORs:PSN:symbol
+VORs:SEL:frequency
+VORs:SEL:name
+VORs:SEL:symbol
+VORs:SOT:frequency
+VORs:SOT:name
+VORs:SOT:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:10
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:mytag
+WINDOWAREA:28.998014:114.849291:39.094415:137.922579

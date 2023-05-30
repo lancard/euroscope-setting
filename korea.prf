@@ -1,0 +1,86 @@
+Settings	Settingsfile	\txt\general_settings.txt
+Settings	sector	\sector_1.20230529.1121350.sct2
+Voice	Grammar	\txt\ESGrammar.txt
+LastSession	connecttype	0
+LastSession	realname	Sungho Kim
+LastSession	certificate	1309407
+LastSession	password	abcdefgh
+LastSession	facility	6
+LastSession	rating	7
+LastSession	server	AUTOMATIC
+LastSession	tovatsim	1
+LastSession	range	600
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
+Voice	input_hardware	Wave - ����ũ(Realtek High Definition 
+Voice	output_hardware	Wave - Realtek Digital Output(Optical)
+Voice	PPPT	21954560
+Settings	alias	\txt\alias.txt
+Sounds	Sound0	C:\Program Files (x86)\EuroScope\Sounds\handoff_request.wav
+Sounds	Sound1	C:\Program Files (x86)\EuroScope\Sounds\handoff_accept.wav
+Sounds	Sound2	\conflict_alert.wav
+Sounds	Sound3	C:\Program Files (x86)\EuroScope\Sounds\radio_message.wav
+Sounds	Sound4	C:\Program Files (x86)\EuroScope\Sounds\atc_message.wav
+Sounds	Sound5	C:\Program Files (x86)\EuroScope\Sounds\atc_message.wav
+Sounds	Sound6	C:\Program Files (x86)\EuroScope\Sounds\broadcast_message.wav
+Sounds	Sound7	C:\Program Files (x86)\EuroScope\Sounds\landline_request.wav
+Sounds	Sound8	C:\Program Files (x86)\EuroScope\Sounds\supervisor_message.wav
+Sounds	Sound9	C:\Program Files (x86)\EuroScope\Sounds\connected.wav
+Sounds	Sound10	C:\Program Files (x86)\EuroScope\Sounds\disconnected.wav
+Sounds	Sound11	C:\Program Files (x86)\EuroScope\Sounds\ongoing_request.wav
+Sounds	Sound12	C:\Program Files (x86)\EuroScope\Sounds\ongoing_accepted.wav
+Sounds	Sound13	C:\Program Files (x86)\EuroScope\Sounds\ongoing_refused.wav
+Sounds	Sound14	C:\Program Files (x86)\EuroScope\Sounds\ongoing_manual.wav
+Sounds	Sound15	C:\Program Files (x86)\EuroScope\Sounds\new_atis.wav
+Sounds	Sound16	C:\Program Files (x86)\EuroScope\Sounds\handoff_refused.wav
+Sounds	Sound17	C:\Program Files (x86)\EuroScope\Sounds\pointout.wav
+Sounds	Sound18	\conflict_alert.wav
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
+ASRFastKeys	1	\all-korea.asr
+ASRFastKeys	2	\rkss_app.asr
+ASRFastKeys	3	\rkpc_app.asr
+ASRFastKeys	4	\rkpk_app.asr
+ASRFastKeys	5	\rksi.asr
+ASRFastKeys	6	\rkss.asr
+ASRFastKeys	7	\rkpc.asr
+ASRFastKeys	8	\rkpk.asr
+ASRFastKeys	9	\etc.asr
+LastSession	atis_airport	ZKPY
+LastSession	atis_letter	75
+Settings	airlines	\txt\ICAO_Airlines.txt
+Settings	SettingsfileSYMBOLOGY	\txt\symbology.txt
+Settings	SettingsfileVOICE	\txt\ground_to_air.txt
+Settings	SettingsfilePROFILE	\txt\login_profile.txt
+Settings	SettingsfileTAGS	\txt\tag_definition.txt
+Settings	SettingsfileSIL	\txt\sector_inbound.txt
+Settings	SettingsfileSEL	\txt\sector_exit.txt
+Settings	SettingsfileDEP	\txt\departure_list.txt
+Settings	SettingsfileARR	\txt\arrival_list.txt
+Settings	SettingsfileFP	\txt\flightplan_list.txt
+Settings	SettingsfilePLUGINS	\txt\plugin_setting.txt
+Settings	SettingsfileSCREEN	\txt\layout.txt
+Settings	SettingsfileCONFLICT	\txt\conflict_list.txt
+Settings	airways	\txt\airway.txt
+LastSession	callsign	RKRR_A_CTR
+Voice	squelch	557.5
+Voice	SPPT	4521984
+Voice	bass_filter	1
+Plugins	Plugin0	\plugin\KAP\KAP.dll
+Plugins	Plugin1	\plugin\RDFPlugin\RDFPlugin.dll
+Plugins	Plugin1Display0	Standard ES radar screen
+Plugins	Plugin2	\plugin\KRW\KRWPlugin.dll
+Plugins	Plugin2Display0	Standard ES radar screen
+LastSession	atis2	incheon ctr
+LastSession	atis_freq4	118000
+LastSession	atis_freq3	118000
+RecentFiles	Recent1	\all-korea.asr
+RecentFiles	Recent2	\etc.asr
+RecentFiles	Recent3	\rkpk.asr
+RecentFiles	Recent4	\rkpc.asr
+RecentFiles	Recent5	\rkss.asr
+RecentFiles	Recent6	\rksi.asr
+RecentFiles	Recent7	\rkpk_app.asr
+RecentFiles	Recent8	\rkpc_app.asr
+RecentFiles	Recent9	\rkss_app.asr
+RecentFiles	Recent10	\all-korea.asr
